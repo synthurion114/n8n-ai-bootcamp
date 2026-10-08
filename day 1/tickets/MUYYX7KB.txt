@@ -1,0 +1,7 @@
+Prio: Urgent
+
+Name: HeyGee
+
+Submitted:2026-10-08T11:19:46.572+08:00
+
+Issue: PC was dropped from a 10th-storey apartment — likely severe physical damage (chassis, screen, internal components) and potential data loss.
