@@ -1,0 +1,9 @@
+User Name: Tobias
+
+Submitted: 2026-10-08T23:10:07.738+08:00
+
+Description:
+My laptop fell down and is broken now
+
+Status: Open
+Prio: Urgent
