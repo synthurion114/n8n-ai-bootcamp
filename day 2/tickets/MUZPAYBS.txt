@@ -1,0 +1,9 @@
+User Name: Synth
+
+Submitted: 2026-10-08T23:38:17.804+08:00
+
+Description:
+Laptop (Lenovo) fell into pool — suspected water damage. Company-owned device. User reports being blocked from work and requests replacement device and data recovery. User was advised to power off and not to attempt to boot, remove battery if possible, remove external devices, blot visible water, position to drain, and place in dry environment. Safety-step confirmations pending.
+
+Status: Open
+Prio: Urgent
