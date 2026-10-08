@@ -1,0 +1,7 @@
+Prio: Urgent
+
+Name: Synth
+
+Submitted:2026-10-08T10:45:40.901+08:00
+
+Issue: User (Synth) reports that their dog urinated on their computer, indicating potential liquid damage to the device.
