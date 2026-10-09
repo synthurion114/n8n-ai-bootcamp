@@ -1,9 +1,13 @@
 User Name: Peter
 
-Submitted: 2026-10-09T08:19:22.362+08:00
+Submitted: 2026-10-09T08:19:22.36+08:00
 
 Description:
-Physical damage: neighbor's gorilla jumped on user's laptop causing hardware damage. User cannot perform troubleshooting and requests device replacement. Device: laptop. User unavailable to troubleshoot now.
+Physical damage: neighbor's chimpanzee jumped on user's laptop causing hardware damage. User cannot perform troubleshooting and requests device replacement. Device: laptop. User unavailable to troubleshoot now.
 
 Status: Open
 Prio: Urgent
+
+Activity Log:
+2026-10-09T08:19:22.36+08:00 - Ticket created (Urgent). Escalated to human IT technician for asset/replacement review.
+2026-10-09T08:30:00+08:00 - User updated: clarified animal was a chimpanzee. No change to status or priority.
